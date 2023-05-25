@@ -17,9 +17,9 @@ Font Link: [Google Font Link](<link href="https://fonts.googleapis.com/css2?fami
 * axios
 * React
 * Material UI
-* 
+
 # Deployment
-**Deploy Using Nelify  
+**Deploy Using Nelify**  
 
 [Live Poject](https://bright-kashata-9e4b64.netlify.app)
 

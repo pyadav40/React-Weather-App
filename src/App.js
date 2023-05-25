@@ -20,7 +20,7 @@ function App() {
 
 let [cityName,setCity]=useState("Mumbai")
 let [data, setData] = useState(null)
-let [error, setError] = useState(null)
+ 
 
 const getApi=async function () {
   
@@ -29,7 +29,7 @@ const getApi=async function () {
     setData(fetchdata.data);
   }
   catch (error) {
-    setError(error)
+    console.log(error)
   }
 }
  
